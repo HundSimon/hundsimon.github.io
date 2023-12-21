@@ -5,7 +5,7 @@ keywords: null
 author: Melaton
 language: en
 timezone: ''
-url: http://example.com
+url: https://melaton.top
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:

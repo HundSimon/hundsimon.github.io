@@ -112,9 +112,6 @@ navbar:
         About: /about
     # Links to be shown on the right of the navigation bar
     links:
-        Download on GitHub:
-            icon: fab fa-github
-            url: https://github.com/ppoffice/hexo-theme-icarus
 # Page footer configurations
 footer:
     # Copyright text
@@ -175,7 +172,7 @@ donates:
     -
         type: afdian
         # URL to the "Afdian.net" personal page
-        url: ''
+        url: 'https://afdian.net/a/melaton'
     # Alipay donate button configurations
     -
         type: alipay
@@ -192,12 +189,12 @@ donates:
         # URL to the Patreon page
         url: ''
     # Paypal donate button configurations
-    -
-        type: paypal
-        # Paypal business ID or email address
-        business: ''
-        # Currency code
-        currency_code: USD
+    #-
+    #    type: paypal
+    #    # Paypal business ID or email address
+    #    business: ''
+    #    # Currency code
+    #    currency_code: USD
     # Wechat donate button configurations
     -
         type: wechat
